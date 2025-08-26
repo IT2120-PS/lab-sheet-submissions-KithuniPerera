@@ -17,4 +17,5 @@ Frequencies decrease toward both ends of the distribution (20–30 minutes and 6
 4. Outliers
 Potential outliers are the very low or very high delivery times:
 Low end: 20 minutes
+
 High end: 66, 67 minutes
