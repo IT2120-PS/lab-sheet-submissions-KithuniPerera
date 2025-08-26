@@ -1,0 +1,20 @@
+1. Shape of the Distribution
+The distribution is unimodal (one peak).
+Most delivery times are clustered around 35–50 minutes.
+It is approximately symmetric with a slight right (positive) skew.
+
+
+
+2. Skewness
+Slight positive skew: a few delivery times are higher (60–67 minutes), stretching the tail to the right.
+
+
+3. Frequency
+Highest frequency occurs around the 35–45 minutes interval.
+Frequencies decrease toward both ends of the distribution (20–30 minutes and 60–70 minutes).
+
+
+4. Outliers
+Potential outliers are the very low or very high delivery times:
+Low end: 20 minutes
+High end: 66, 67 minutes
